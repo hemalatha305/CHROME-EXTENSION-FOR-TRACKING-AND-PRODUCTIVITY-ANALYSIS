@@ -1,11 +1,11 @@
 # CHROME-EXTENSION-FOR-TRACKING-AND-PRODUCTIVITY-ANALYSIS
 Company : CODTECH IT SOLUTIONS
 
-Name : Pasumarthi Vajrasree
+Name : P HEMALATHA
 
-intern ID : CT06WU89
+intern ID : CT06WK138
 
-Domain : Full Stack DEvelopment
+Domain : Full Stack Web Development
 
 Duration : 6weeks
 
